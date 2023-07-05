@@ -43,3 +43,9 @@
 ### 개발 기간
 
 - 2023.07.03 ~ 2023.07.16
+
+
+### 저작권 표시
+
+- Organization 프로필 사진
+<a href="https://www.flaticon.com/kr/free-icons/" title="대양 아이콘">대양 아이콘  제작자: Vitaly Gorbachev - Flaticon</a>
