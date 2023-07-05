@@ -14,7 +14,7 @@
 | <img src="https://avatars.githubusercontent.com/u/114281631?v=4" width="150" height="150"> | <img src="https://avatars1.githubusercontent.com/u/64449323?s=460&v=4" width="150" height="150"> | <img src="https://avatars.githubusercontent.com/u/39961274?v=4" width="150" height="150"> |
 | --- | --- | --- |
 | 정희호 [42#hujeong](https://profile.intra.42.fr/users/hujeong) ([@heehoh](https://github.com/heehoh)) | 김정준 [42#jekim](https://profile.intra.42.fr/users/jekim) ([@ᴛᴡᴏ-ᴊᴀʏ](http://github.com/Two-Jay)) | 위지혜 [42#jwee](https://profile.intra.42.fr/users/jwee)([@weejihye](https://github.com/weejihye)) |
-| `FE` | `BE` | `BE` |
+| `Front-end` | `Back-end` | `Back-end` |
 
 ### 사용 스텍
 
