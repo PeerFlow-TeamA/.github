@@ -1,8 +1,5 @@
 ## PeerFlow
 
-
-### 프로젝트 참여자
-
 ### 프로젝트 소개
 
 - PeerFlow는 간단한 질문을 하고 답변을 받을 수 있는 서비스입니다.
@@ -12,7 +9,7 @@
 - 질문을 한 사람은 좋은 답변을 선택할 수 있습니다.
 - 질문과 답변에 댓글을 달 수 있습니다.
 
-### 프로젝트 진행 인원
+### 프로젝트 참여 구성원
 
 | <img src="https://avatars.githubusercontent.com/u/114281631?v=4" width="150" height="150"> | <img src="https://avatars1.githubusercontent.com/u/64449323?s=460&v=4" width="150" height="150"> | <img src="https://avatars.githubusercontent.com/u/39961274?v=4" width="150" height="150"> |
 | --- | --- | --- |
